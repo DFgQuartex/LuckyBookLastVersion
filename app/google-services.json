@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "563602446153",
+    "firebase_url": "https://push-notifications-b723f.firebaseio.com",
+    "project_id": "push-notifications-b723f",
+    "storage_bucket": "push-notifications-b723f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563602446153:android:ef445b802d43c85d",
+        "android_client_info": {
+          "package_name": "ru.lucky_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563602446153-pb30j96ogg0n266larpuht6c36ilv79m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.lucky_book",
+            "certificate_hash": "9f8bcb60f520f355e057859ecfebc3ad1d9755df"
+          }
+        },
+        {
+          "client_id": "563602446153-e0u8ej77enfua06c59voif7upmhk4v1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDaggaj4J1qPvvnWJvGVMk5WJ4jE0rGSk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563602446153-e0u8ej77enfua06c59voif7upmhk4v1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
